@@ -25,7 +25,7 @@ Setup{📍}
 To run this game, you can simply download the files and open the index.html file in your browser. Alternatively, 
 you can also clone the repository using the following command:
 
-git clone:git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/your-username/your-repository.git
 
 Demo{📍}
 
